@@ -66,7 +66,7 @@ function Login() {
         </div>
       </div>
 
-      {/* Right Panel */}
+     
       <div className="w-full md:w-8/12 bg-white flex justify-center items-center p-6 md:p-12">
         <div className="w-full max-w-md flex flex-col items-center">
           {/* Logo */}
